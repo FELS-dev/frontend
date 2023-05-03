@@ -1,0 +1,7 @@
+{
+  "name": "toto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
